@@ -13,7 +13,7 @@
 
 [![Light](Безымянный.png)](http://misskey.io/@light/)
 
-* Website: [Solar Eclipse Tumblr](https://solareclipse995.tk) 
+* Website: [Solar Eclipse Tumblr](https://solareclipse995.tumblr.com) 
 * Twitter: [@solareclipse995](https://twitter.com/solareclipse995)
 * Github: [@solareclipse995](https://github.com/solareclipse995)
 
