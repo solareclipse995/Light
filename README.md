@@ -11,7 +11,7 @@
 
 👤 **Light**
 
-[![Light](Безымянный.png)
+[Light](Безымянный.png)
 
 * Website: [Solar Eclipse Tumblr](https://solareclipse995.tumblr.com) 
 * Twitter: [@solareclipse995](https://twitter.com/solareclipse995)
